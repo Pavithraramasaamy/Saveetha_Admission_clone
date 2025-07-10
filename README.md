@@ -106,8 +106,9 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
+  justify-content: flex-end; 
   align-items: center;
-  justify-content: center;
+  padding-right: 5%; 
 }
 
 .form-container {
@@ -195,7 +196,7 @@ input, select {
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/a1450fea-9d16-4ea6-b2ca-fbfdd1057510)
+![image](https://github.com/user-attachments/assets/c5570eaf-b9c0-43c7-b820-bf2555bc1de4)
 
 
 ## Result:
