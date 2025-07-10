@@ -7,9 +7,11 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
+  justify-content: flex-end; 
   align-items: center;
-  justify-content: center;
+  padding-right: 5%; 
 }
+
 
 .form-container {
   background-color: rgba(0, 0, 0, 0.6); 
